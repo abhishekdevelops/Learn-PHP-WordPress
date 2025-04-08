@@ -1,6 +1,6 @@
 # Data Types in PHP
 
-This project demonstrates the use of different data types in PHP, including strings, integers, floats, booleans, and arrays. Additionally, it shows the usage of a simple PHP class with object instantiation.
+This project demonstrates the use of different data types in PHP, including strings, integers, floats, booleans and arrays. Additionally, it shows the usage of a simple PHP class with object instantiation.
 
 ---
 
