@@ -1,10 +1,9 @@
 <?php
 // output message
 echo "<h1>Welcome to PHP Learning</h1>";
-$name="Digital Web Trends";
-$goal="Become a WordPress Pro in 2 months";
+$goal="Become a WordPress Developer";
 //output
-echo"<p>Hello I am learning PHP with {$name}.</p>";
+echo"<p>Hello I am learning PHP</p>";
 echo"<p>My Goal:{$goal}.</p>";
 ?>
 
