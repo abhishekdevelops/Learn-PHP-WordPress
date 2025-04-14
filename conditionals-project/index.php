@@ -24,6 +24,7 @@ else{
 echo "Percentage:$percentage%<br>";
 echo "Grade:$grade<br>";
 
+//Show feedback using switch-case
 switch($grade)
 {
     case "A+":
