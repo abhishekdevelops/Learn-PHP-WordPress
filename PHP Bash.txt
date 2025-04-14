@@ -1,15 +1,2 @@
  
-git remote add origin https://github.com/abhishekdevelops/learn-php-wordpress.git
 
-git remote set-url origin git@github.com:abhishekdevelops/Learn-PHP-WordPress.git
-
- ////////bash
-cd "F:\PHP Projects\Learn-PHP-WordPress\arithmetic-operators"
-php -S localhost:8000
-
-browser
-http://localhost:8000
-////////
-
- cd "F:\PHP Projects\Learn-PHP-WordPress"
-git add arithmetic-operators/
