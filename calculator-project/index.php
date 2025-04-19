@@ -1,6 +1,7 @@
 <?php
 //Simple Calculator
 
+
 //Addition
 function add($num1,$num2){
     return $num1+$num2;
@@ -8,7 +9,6 @@ function add($num1,$num2){
 $num1=10;
 $num2=5;
 $result=add($num1,$num2);
-
 echo "Addition of $num1 and $num2 is :$result";
 echo"<hr>";
 
@@ -19,7 +19,6 @@ function sub($num1,$num2){
 $num1=10;
 $num2=5;
 $result=sub($num1,$num2);
-
 echo "Subtraction of $num1 and $num2 is :$result";
 echo"<hr>";
 
@@ -30,7 +29,6 @@ function multi($num1,$num2){
 $num1=10;
 $num2=5;
 $result=multi($num1,$num2);
-
 echo "Multiplication of $num1 and $num2 is :$result";
 echo"<hr>";
 
@@ -43,7 +41,6 @@ function div($num1, $num2) {
         return "Error: Division by zero is not allowed";
     }
     return $num1 / $num2;
-    
 }
 $num1=10;
 $num2=5;
