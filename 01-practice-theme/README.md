@@ -9,14 +9,7 @@ This folder contains my very first PHP practice project, where I explored the **
 - **Variables** – Declaring and using `$variables`
 - **Output** – Using `echo` and `print` to display text
 - **Comments** – Writing:
-  - `//` single-line comments
-  - `/* */` multi-line comments
 - **HTML + PHP Integration** – Mixing PHP inside HTML
-
----
-
-## 🚀 Why WordPress?
-Since I'm becoming a WordPress developer, I practiced these PHP basics **inside a WordPress theme folder** to see how PHP logic fits in a real-world environment.
 
 ---
 
