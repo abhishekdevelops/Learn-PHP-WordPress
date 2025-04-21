@@ -53,6 +53,45 @@ This project demonstrates advanced form handling in PHP. It extends basic valida
 
 ---
 
+## 🧪 How to Run This Project
+
+You can test this project using either:
+
+### 🔹 Option 1: PHP Built-in Server
+
+1. Open Command Prompt or Terminal
+2. Navigate to the project folder:
+   ```
+   cd path/to/11-form-validation-sanitization
+   ```
+3. Start the server:
+   ```
+   php -S localhost:8000
+   ```
+4. Open your browser and go to:
+   ```
+   http://localhost:8000
+   ```
+
+---
+
+### 🔹 Option 2: XAMPP (Apache Server)
+
+1. Place the project folder inside your `htdocs` directory:
+   ```
+   C:\xampp\htdocs\11-form-validation-sanitization
+   ```
+2. Start Apache via XAMPP control panel
+3. Open your browser and visit:
+   ```
+   http://localhost/11-form-validation-sanitization/
+   ```
+
+---
+
+✅ The form will be displayed, and you can test field validation, success messages, and input behavior.
+
+
 ## ✅ Goal:
 
 To gain real-world practice in building user-friendly, secure, and smart forms in PHP with:
