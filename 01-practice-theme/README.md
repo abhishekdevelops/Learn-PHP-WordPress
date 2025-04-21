@@ -1,16 +1,35 @@
-# 📁 practice-theme – WordPress Practice Theme
+# 📁 01-practice-theme – PHP Basics Practice (Syntax, Variables, Echo/Print, Comments)
 
-This is a simple PHP-based WordPress practice theme created as part of my journey to enhance backend development skills in WordPress.
+This folder contains my very first PHP practice project, where I explored the **core basics of PHP** — all within a simple WordPress theme structure.
 
-## 🚀 What's Inside:
+---
 
-- `index.php` – Basic PHP output practice
-- `style.css` – Required WordPress theme style header
+## 🔰 Topics Practiced:
+- **PHP Syntax** – Using opening `<?php` and closing `?>` tags
+- **Variables** – Declaring and using `$variables`
+- **Output** – Using `echo` and `print` to display text
+- **Comments** – Writing:
+  - `//` single-line comments
+  - `/* */` multi-line comments
+- **HTML + PHP Integration** – Mixing PHP inside HTML
+
+---
+
+## 🚀 Why WordPress?
+Since I'm becoming a WordPress developer, I practiced these PHP basics **inside a WordPress theme folder** to see how PHP logic fits in a real-world environment.
+
+---
+
+## 📁 Files:
+- `index.php` – Practiced all PHP basics (syntax, variables, comments, echo/print)
+- `style.css` – WordPress theme stylesheet with proper theme header to activate
+
+---
 
 ## 💡 Goal:
+To build a solid foundation in PHP by working hands-on with variables, output, and comments — all while simulating a real WordPress theme environment.
 
-To strengthen my PHP fundamentals while building themes for WordPress from scratch.
+---
 
 ## 📅 Part of:
-
-📂 `Learn-PHP-WordPress` – My GitHub repo to track my learning roadmap for becoming a WordPress developer with PHP + MySQL.
+📂 `Learn-PHP-WordPress`
