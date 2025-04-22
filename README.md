@@ -68,8 +68,9 @@ Even though I already build WordPress websites, I'm deepening my PHP and backend
 
 If you found this repository helpful or inspiring, consider giving it a ⭐ star — it keeps me motivated!
 
-![GitHub Repo stars](https://img.shields.io/github/stars/abhishekdevelops/learn-php-wordpress?style=social)
-![GitHub forks](https://img.shields.io/github/forks/abhishekdevelops/learn-php-wordpress?style=social)
+[![GitHub Repo stars](https://img.shields.io/github/stars/abhishekdevelops/learn-php-wordpress?style=social)](https://github.com/abhishekdevelops/learn-php-wordpress/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abhishekdevelops/learn-php-wordpress?style=social)](https://github.com/abhishekdevelops/learn-php-wordpress/network/members)
 ![GitHub views](https://komarev.com/ghpvc/?username=abhishekdevelops&label=Views&color=blue)
+
 
 
