@@ -60,7 +60,7 @@ Each learning project is inside its own folder for better organization and easy 
 
 ## 🚀 Why This Repo Exists
 
-Even though I already build WordPress websites, I'm deepening my PHP and backend skills to become a full-fledged WordPress developer — capable of building custom themes, plugins, and dynamic solutions from scratch.
+Even though I already built WordPress website, I'm deepening my PHP and backend skills to become a full-fledged WordPress developer — capable of building custom themes, plugins, and dynamic solutions from scratch.
 
 ---
 
