@@ -70,7 +70,6 @@ If you found this repository helpful or inspiring, consider giving it a ⭐ star
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/abhishekdevelops/learn-php-wordpress?style=social)](https://github.com/abhishekdevelops/learn-php-wordpress/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/abhishekdevelops/learn-php-wordpress?style=social)](https://github.com/abhishekdevelops/learn-php-wordpress/network/members)
-![GitHub views](https://komarev.com/ghpvc/?username=abhishekdevelops&label=Views&color=blue)
 
 
 
