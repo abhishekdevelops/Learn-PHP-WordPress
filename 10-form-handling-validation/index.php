@@ -14,7 +14,17 @@ if (!empty($name) && !empty($email) && !empty($message)){
     $feedback="Please fill in all the fields.";
 }
 }
+
+$source = isset($_GET["source"]) ? htmlspecialchars($_GET["source"]) : "";
 ?>
+<?php if (!empty($source)): ?>
+    <p style="color:blue;">🔍 Page visited via: <?php echo $source; ?></p>
+<?php endif; ?>
+
+<p>
+    <a href="?source=google">Visit this page with GET parameter: ?source=google</a>
+</p>
+
 
 <form method="post" action="">
     <label>Name:</label><br>
