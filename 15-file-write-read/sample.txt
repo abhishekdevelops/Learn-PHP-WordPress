@@ -1,0 +1,2 @@
+Hello, this is my first file writing project in PHP!
+Learning file handling step by step.
