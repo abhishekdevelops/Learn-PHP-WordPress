@@ -33,17 +33,17 @@ This project demonstrates how to upload files from a browser using PHP, with val
    ```
    C:\xampp\htdocs\16-file-upload\
    ```
-3. Open your browser and visit:
+4. Open your browser and visit:
    ```
    http://localhost/16-file-upload/
    ```
 
-4. ✅ Try uploading:
+5. ✅ Try uploading:
    - Small image or PDF file → Success
    - Large file (>2MB) → Blocked
    - Unsupported file types (.exe, .zip) → Blocked
 
-5. ✅ Uploaded files will be saved inside the `uploads/` folder.
+6. ✅ Uploaded files will be saved inside the `uploads/` folder.
 
 ---
 
