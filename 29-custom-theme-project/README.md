@@ -37,7 +37,7 @@ The theme supports dynamic blog posts, pages, navigation menus, and includes reu
 1. **Start LocalWP and open your WordPress site.**
 2. Place this folder inside:
    ```
-   Local Sites > custom-theme-develops > app > public > wp-content > themes > mycustomtheme
+   Local Sites > custom-theme-dev > app > public > wp-content > themes > mycustomtheme
    ```
 3. Go to WordPress admin → **Appearance → Themes**
 4. Activate **My Custom Theme**
