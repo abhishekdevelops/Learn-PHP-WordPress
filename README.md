@@ -77,6 +77,7 @@ This repository serves as my **public learning journal**, **technical portfolio*
 🚀 **Live Portfolio Site:**  
 https://abhishekdevelops.github.io/Learn-PHP-WordPress/
 
+---
 
 ## ⭐ GitHub Stats
 
