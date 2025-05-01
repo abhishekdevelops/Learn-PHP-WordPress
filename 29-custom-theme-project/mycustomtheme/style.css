@@ -1,0 +1,38 @@
+/*
+Theme Name: My Custom Theme
+Theme URI: http://example.com/
+Author: Abhishek  
+Author URI: http://example.com/
+Description: A custom WordPress theme built from scratch.
+Version: 1.0
+*/
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+header, footer {
+    background: #eee;
+    padding: 15px;
+    text-align: center;
+}
+main {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+.testimonial-list {
+    padding: 10px;
+    background: #f9f9f9;
+}
+.testimonial {
+    margin-bottom: 20px;
+    border-left: 4px solid #0073aa;
+    padding-left: 10px;
+}
+.testimonial h3 {
+    margin-bottom: 5px;
+    color: #0073aa;
+}
+
