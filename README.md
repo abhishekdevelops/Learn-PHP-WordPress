@@ -1,79 +1,76 @@
 # Learn PHP for WordPress Development 🚀
 
-This repository documents my journey of strengthening my PHP and MySQL skills to become a professional WordPress Developer — focusing on backend theme and plugin development.
-
----
-
-## 🧭 Learning Phases
-
-### 📘 Phase 1: PHP Fundamentals
-- Syntax, variables, data types, strings, arrays
-- Conditionals, loops, functions
-- File handling, sessions, cookies, and form processing
-- Superglobals: `$_GET`, `$_POST`, `$_SESSION`, `$_COOKIE`
-- Small real-world practice projects
-
-### 🧩 Phase 2: PHP + MySQL Integration
-- Connecting PHP to MySQL using MySQLi
-- CRUD operations (Create, Read, Update, Delete)
-- Building login systems, comment forms, and basic database applications
-- Full dynamic backend building practice
-
-### 🎨 Phase 3: WordPress Theme Development *(Coming Soon)*
-- Theme structure and `functions.php`
-- Template hierarchy and the WordPress loop
-- Custom templates, `WP_Query`, and theme customization
-
-### 🔌 Phase 4: WordPress Plugin Development *(Coming Soon)*
-- Actions and filters
-- Shortcodes and widgets
-- Building reusable, production-ready custom plugins
-- Full backend plugin settings management
+This repository documents my journey of learning and practicing PHP, MySQL, and WordPress development — with a strong focus on backend logic, dynamic features, theme building, and plugin development.
 
 ---
 
 ## 📁 Projects Completed
 
-| Project No. | Project Title | Status |
-|:------------|:--------------|:-------|
-| 19 | PHP to MySQL Database Connection | ✅ Completed |
-| 20 | Insert Form Data into MySQL Database | ✅ Completed |
-| 21 | Fetch and Display Users from MySQL Database | ✅ Completed |
-| 22 | Update User Information in MySQL Database | ✅ Completed |
-| 23 | Delete User from MySQL Database | ✅ Completed |
+| Project No. | Folder Name | Project Title |
+|-------------|-------------|-----------------------------|
+| 01 | 01-practice-theme | Practice Theme Structure |
+| 02 | 02-data-types | PHP Data Types |
+| 03 | 03-arithmetic-operators | Arithmetic Operators |
+| 04 | 04-other-operators | Other Operators in PHP |
+| 05 | 05-conditionals-project | Conditionals Practice |
+| 06 | 06-loops-project | Loops Practice |
+| 07 | 07-functions-project | Functions Practice |
+| 08 | 08-scope-project | Variable Scope |
+| 09 | 09-calculator-project | Simple Calculator |
+| 10 | 10-form-handling-validation | Form Handling and GET Parameters |
+| 11 | 11-form-validation-sanitization | Form Validation & Sanitization |
+| 12 | 12-superglobals-overview | Superglobals in PHP |
+| 13 | 13-include-require-error-handling | Include/Require & Error Handling |
+| 14 | 14-contact-form-validation | Contact Form with Validation |
+| 15 | 15-file-write-read | File Writing and Reading |
+| 16 | 16-file-upload | File Upload System |
+| 17 | 17-associative-and-multidimensional-arrays | Arrays and Looping |
+| 18 | 18-session-login-logout | Session-Based Login System |
+| 19 | 19-php-mysql-connection | PHP to MySQL Database Connection |
+| 20 | 20-php-insert-form-database | Insert Form Data into MySQL |
+| 21 | 21-php-fetch-users | Fetch and Display Users |
+| 22 | 22-php-update-user | Update User Information |
+| 23 | 23-php-delete-user | Delete User |
+| 24 | 24-php-search-users | Search Users by Name/Email |
+| 25 | 25-php-search-pagination | Search with Pagination |
+| 26 | 26-php-blog-post-system | Mini Blog Post System |
+| 27 | 27-sql-sorting-users | Sort Users by Column (SQL ORDER BY) |
+| 28 | 28-sql-join-users-profiles | INNER JOIN Users and Profiles |
+| 29 | 29-custom-theme-project | Custom WordPress Theme |
+| 30 | 30-testimonial-plugin-project | WordPress Testimonials Plugin |
 
 ---
 
 ## ⚙️ Tools Used
 
-- ✅ PHP (CLI + XAMPP for local browser-based testing)
+- ✅ PHP (CLI + XAMPP for browser-based testing)
 - ✅ MySQL (via phpMyAdmin)
-- ✅ GitHub for version control and portfolio documentation
-- 🔜 LocalWP for future WordPress Theme and Plugin development
+- ✅ Git + GitHub for version control and documentation
+- ✅ LocalWP for WordPress Theme and Plugin development
 
 ---
 
-## 📚 Repository Structure
+## 🗂 Repository Structure
 
 Each project is organized inside its own folder for better clarity and GitHub navigation.
 
 ```
-/19-php-mysql-connection/
-/20-php-insert-form-database/
-/21-php-fetch-users/
-/22-php-update-user/
-/23-php-delete-user/
+/01-practice-theme/
+/02-data-types/
+/...
+/29-custom-theme-project/
+/30-testimonial-plugin-project/
 ```
 
-Each folder contains the related PHP scripts, database operations, and project-specific README.md files where necessary.
+Each folder includes relevant code and a clean `README.md` explaining the goal, features, files, and what I learned.
 
 ---
 
 ## 🚀 Why This Repo Exists
 
-Even though I had already built WordPress websites before, I am deepening my PHP and backend development skills to become a full-fledged WordPress Developer — capable of building custom themes, plugins, and dynamic solutions entirely from scratch without relying on third-party builders.
+Even though I had already built WordPress websites before, I decided to deepen my backend development skills to become a full-fledged WordPress Developer — capable of building custom themes, plugins, and dynamic solutions entirely from scratch without relying on page builders.
 
-This repository serves as my **public learning journey**, **portfolio**, and **motivation tracker**.
+This repository serves as my **public learning journal**, **technical portfolio**, and **motivation tracker**.
 
 ---
 
@@ -81,6 +78,5 @@ This repository serves as my **public learning journey**, **portfolio**, and **m
 
 If you found this repository helpful or inspiring, consider giving it a ⭐ star — it keeps me motivated!
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/abhishekdevelops/learn-php-wordpress?style=social)](https://github.com/abhishekdevelops/learn-php-wordpress/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/abhishekdevelops/learn-php-wordpress?style=social)](https://github.com/abhishekdevelops/learn-php-wordpress/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/abhishekdevelops/learn-php-wordpress?style=social)](https://github.com/abhishekdevelops/learn-php-wordpress/network/members)
-
