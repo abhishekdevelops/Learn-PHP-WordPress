@@ -4,6 +4,8 @@ This project demonstrates how to sort users dynamically based on different colum
 
 ---
 
+## 🔍 Features Implemented
+
 | Feature | Purpose |
 |---------|---------|
 | Dynamic Sorting Links | Allow users to sort the user list by Name, Age, or Email |
@@ -11,18 +13,49 @@ This project demonstrates how to sort users dynamically based on different colum
 | Security Handling | Prevent invalid sort columns from being passed |
 | Simple User Table Display | Display sorted users in a clean HTML table |
 
+---
+
+## 📁 Files in This Project
+
 | File | Purpose |
 |------|---------|
 | `sort_users.php` | Full logic to sort users dynamically based on selected column |
 
-To test this project, start the XAMPP Apache and MySQL servers. Place the project folder inside `C:\xampp\htdocs\27-sql-sorting-users\` and then open your browser and visit `http://localhost/27-sql-sorting-users/sort_users.php`. You will see a user list where you can click on Name, Age, or Email links to dynamically sort the users based on the selected column.
+---
 
-What I learned in this project:
-- How to build dynamic SQL queries using ORDER BY
-- How to handle user-selected sorting parameters securely
-- How to display sorted data neatly in PHP
+## 🧪 How to Test
+
+1. **Start XAMPP Apache and MySQL server.**
+2. Place this folder inside:  
+   ```
+   C:\xampp\htdocs\27-sql-sorting-users\
+   ```
+3. Open your browser and visit:  
+   ```
+   http://localhost/27-sql-sorting-users/sort_users.php
+   ```
+4. ✅ Click on Name, Age, or Email links to sort the user list.
+5. ✅ View the users sorted dynamically based on the selected column.
+
+---
+
+## ✅ What I Learned
+
+- How to build dynamic SQL queries using ORDER BY  
+- How to handle user-selected sorting parameters securely  
+- How to display sorted data neatly in PHP  
 - How to prevent SQL injection by validating sorting parameters
 
+---
+
+## 🗂 Project Folder Structure
+
+```
+27-sql-sorting-users/
+└── sort_users.php
+```
+
+---
 
 ## 📚 Note
 
